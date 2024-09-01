@@ -1,7 +1,6 @@
 # Computational Methods for Brain Connectivity Modelling
 
-Franfurtk, Max Planck Institute for Empirical Aesthetics
-From June 17th (Monday) to June 18th (Tuesday).
+Mexico
 
 Learn about advanced biophysical modeling and high-order functional connectivity techniques from world-leading experts. 
 Discover how these methods are transforming our understanding of aging, neurodegeneration, and consciousness.
